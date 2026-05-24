@@ -1,0 +1,8 @@
+# Claude Code local settings
+**/.claude/
+
+# Uploaded files (user content)
+**/uploads/
+
+# Sensitive config files (real credentials)
+**/application.yaml
